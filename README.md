@@ -1,2 +1,11 @@
-# First_DeployWeb_BackEnd
-Here is  backend to first project
+# back-end
+
+## Project setup
+```
+npm install
+```
+
+### Run Project
+```
+npm start
+```
